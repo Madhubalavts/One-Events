@@ -552,6 +552,7 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 /* venue */ 
@@ -564,6 +565,7 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 
@@ -577,6 +579,7 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 /* about */
@@ -589,6 +592,7 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 .overlay {
